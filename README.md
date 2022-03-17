@@ -1,7 +1,7 @@
 # Contact Form Practice
 
 ## Overview
-A quick project to work on creating forms. This
+A quick project to work on creating forms. 
 
 ## Functionality
 Working contact form capturing:
@@ -10,3 +10,12 @@ Working contact form capturing:
 - Phone Number
 - Message Details
 
+## Screenshots
+
+![Shot One](/images/formShotOne.png)
+
+---
+![Shot Two](/images/formShotTwo.png)
+
+---
+![Shot Three](/images/formShotThree.png)
